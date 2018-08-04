@@ -1,0 +1,9 @@
+{
+  "name": "node-react",
+  "version": "0.0.0",
+  "description": "NodeReact",
+  "main": "server.js",
+  "author": {
+    "name": "KonstantinBezruchenk"
+  }
+}
